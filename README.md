@@ -1,7 +1,7 @@
 # self-training
 some very simple and ugly code
 
-'''
+
 # practice 1 規則 ( 射龍門 )
 
 1. 由程式作為發牌荷官
@@ -15,4 +15,4 @@ some very simple and ugly code
 7. 若獎金池尚有額度，則依順序換下一名玩家回到 5. 之規則進行遊戲
 8. 若獎金池已無額度，則遊戲進入下一輪，回到 3. 之規則進行遊戲
 9. 當其中一名玩家已無籌碼，則本局遊戲結束。
-'''
+
